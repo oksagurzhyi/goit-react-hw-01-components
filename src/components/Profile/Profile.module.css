@@ -1,0 +1,11 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+}
+
+.avatar {
+  display: block;
+  width: 30px;
+  height: 100%;
+}
